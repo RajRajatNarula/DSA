@@ -1,0 +1,2 @@
+allpermutationstringarray.AllpermutationStringArray
+Solution

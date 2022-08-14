@@ -1,0 +1,2 @@
+Sol
+majorityelment.nby2.MajorityelmentNby2
